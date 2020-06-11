@@ -12,7 +12,8 @@ public class Calculations {
 		int sub= y-x;
 		System.out.println("The subtraction is= "+ sub);
 		//member_C add the feature of dividing x by y and print the result
-
+		int div= x/y;
+		System.out.println("The division is= "+ div);
 
 
 
